@@ -5,6 +5,8 @@ in this file, you can find out some base operation in python pcl.
 
 ## pcl_pointXYZI_to_pointXYZRGB_python.py:
    the base operation to convert a pointXYZI pointCloud to a pointXYZRGB pointCloud.
+   
+   ![image](https://github.com/FoolPepper/python-pcl-pointXYZI_to_pointXYZRGB/blob/master/frame_save_244_intensity_to_color.png)
 
 ## continue..
 ---
